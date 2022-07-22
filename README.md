@@ -7,7 +7,3 @@
   * Problem 11
 * 10-Strings
   * Problem 4
-* 11-Structs
-  * All
-* 12-Unions
-  * All
